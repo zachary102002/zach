@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Destua, Zachary Joles Y.</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #grey;
+            color: #400;
+        }
+        .resume-container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 2px solid #333;
+            margin-right: 20px;
+        }
+        .header .details {
+            flex: 1;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+        .header p {
+            margin: 5px 0;
+        }
+        .section {
+            ma
+        .section h2 {
+            margin-bottom: 10px;
+            font-size: 20px;
+            border-bottom: 2px solid #333;
+            display: inline-block;
+        }
+        .section ul {
+            list-style: none;
+            padding: 0;
+        }
+        .section ul li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="resume-container">
+        <div class="header">
+            <img src= "038382AF-94D3-4611-BBA4-66CD7554959A.jpeg"
+            <div class="details">
+                <h1>Zachary Joles Destua</h1>
+               
+        </div>
+        
+        <div class="section">
+            <h2>Profile</h2>
+            <ul>
+                <li> Studying at Southern Luzon Collaege</li>
+                <li> With Bachelor of Science in Marine Transporation</li>
+                <li> 22 yrs old</li>
+                <li> gmail:zacharyjoles@gmail.com</li>
+            </ul>
+           
+        </div>
+        
+        <div class="section">
+            <h2>Education</h2>
+            <ul>
+                <li>Graduated Senior Highschool at International School of Restaurant Management (2018-2020)</li>
+                <li>Bachelor of Science in Marine Transportation at Southern Luzon College, Dasmariñas Cavite (2023-2025)</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Graduated At International School of Hotel Restaurant Managemnet 2018-2020
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Computer skills</li>
+                <li>Communication skills</li>
+                <li>Drawing</li>
+                
+            </ul>
+            <h2>Experience</h2>
+            <ul>
+                <li>Worked as crew at a thriftshop (2020-2021)</li>
+                <li>worked as helper in contruction (2021-2022)</li>
+               
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
